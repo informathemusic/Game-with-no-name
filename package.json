@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo Goodbye!"
+  },
+  "author": "InforMatheMusic",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.16",
+    "express": "^4.17.1",
+    "frameless-titlebar": "^1.0.8",
+    "p5": "^0.10.2"
+  }
+}
